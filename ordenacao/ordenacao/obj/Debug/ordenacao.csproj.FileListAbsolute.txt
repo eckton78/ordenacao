@@ -1,0 +1,10 @@
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\bin\Debug\ordenacao.exe.config
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\bin\Debug\ordenacao.exe
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\bin\Debug\ordenacao.pdb
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.csprojAssemblyReference.cache
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.Form1.resources
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.Properties.Resources.resources
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.GenerateResource.cache
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.exe
+C:\Users\egler\Desktop\projetos\ordenacao\ordenacao\obj\Debug\ordenacao.pdb
